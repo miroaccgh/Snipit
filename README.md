@@ -11,7 +11,7 @@
   </a>
 <h3 align="center">Snipit</h3>
   <p align="center">
-    Snipit is an agile cross-platform notation app. Each note consists of code blocks of TS React components, snippets. These snippets can have a range of features. Eg: Text, timer, calander, kanban tickets, todolist, table or a combination of any of them. Some of these snippets come out of the box but they can also be add by the community or prompted by an AI assistend. The goal is to make templates of notes that can be reused and opened with chron jobs.
+    Snipit is an agile cross-platform notation app.
     <br />
     <a href="https://github.com/miroaccgh/snipit/docs"><strong>Explore the docs »</strong></a>
     <br />
@@ -51,9 +51,9 @@
 
 
 ## About The Project
+Snipit is an agile cross-platform notation app. Each note consists of code blocks of TS React components, snippets. These snippets can have a range of features. Eg: Text, timer, calander, kanban tickets, todolist, table or a combination of any of them. Some of these snippets come out of the box but they can also be add by the community or prompted by an AI assistend. The goal is to make templates of notes that can be reused and opened with chron jobs.
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `miroaccgh`, `snipit`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
@@ -141,9 +141,9 @@ See the [open issues](https://github.com/miroaccgh/snipit/issues) for a full lis
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- ## Contributing
+## Contributing
+<!-- 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
 1. Fork the Project
@@ -152,11 +152,11 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+-->
 ### Top contributors:
 <a href="https://github.com/miroaccgh/snipit/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=miroaccgh/snipit" alt="contrib.rocks image" />
-</a> -->
+</a>
 
 
 ## License
@@ -168,7 +168,8 @@ Distributed under the GNU GENERAL PUBLIC LICENSE. See [LICENSE][LICENSE_URL] for
 
 <!-- CONTACT -->
 ## Contact
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Lead - [Miro Noordzij](mailto:mironoordzij@outlook.com?subject=[GitHub]%20Snipit)
+
 Project Link: [https://github.com/miroaccgh/snipit](https://github.com/miroaccgh/snipit)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -194,7 +195,7 @@ Project Link: [https://github.com/miroaccgh/snipit](https://github.com/miroaccgh
 [linkedin_shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin_url]: https://www.linkedin.com/in/miro-noordzij-33036918b/:wq
 
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: Media/Screenshots/screenshot.png
 [TypeScript_logo]: https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
 [TypeScript_url]: https://www.typescriptlang.org/
 [React_logo]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
