@@ -9,16 +9,16 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://github.com/miroaccgh/snipit">
+  <a href="http://www.snipit-app.org/">
     <img src="Media/Logo.png" alt="Logo" width="100%">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Snipit</h3>
 
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/miroaccgh/snipit"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/miroaccgh/snipit/docs"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/miroaccgh/snipit">View Demo</a>
@@ -213,9 +213,10 @@ Project Link: [https://github.com/miroaccgh/snipit](https://github.com/miroaccgh
 [issues-shield]: https://img.shields.io/github/issues/miroaccgh/snipit.svg?style=for-the-badge
 [issues-url]: https://github.com/miroaccgh/snipit/issues
 [license-shield]: https://img.shields.io/github/license/miroaccgh/snipit.svg?style=for-the-badge
-[license-url]: https://github.com/miroaccgh/snipit/blob/master/LICENSE.txt
+[license-url]: https://github.com/miroaccgh/Snipit/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://www.linkedin.com/in/miro-noordzij-33036918b/:wq
+
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
