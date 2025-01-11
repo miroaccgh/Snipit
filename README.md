@@ -65,7 +65,7 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Getting Started
+<!-- ## Getting Started
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
@@ -77,7 +77,6 @@ This is an example of how to list things you need to use the software and how to
   ```
 
 ### Installation
-
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
@@ -97,27 +96,52 @@ This is an example of how to list things you need to use the software and how to
    git remote -v # confirm the changes
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
-
+<!-- 
 ## Usage
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> 
+-->
 
 
 ## Roadmap
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Sprint 1: Setup Project
+  - [ ] Configure README
+  - [ ] Create Discord server and add to readme contact section
+  - [ ] Configure Project Management
+  - [ ] User Stories to Backlog
+  - [ ] Figure out contribution plan
+    - [ ] README section
+  - [ ] Configure Pipeline
+  - [ ] Learn React & Electron basics
+- [ ] Sprint 2: Develop Desktop application
+  - [ ] `src` directory
+  - [ ] CRUD Template 
+  - [ ] Basic application for on linux backend in electron and front end in react
+    - [ ] CRUD Notes
+    - [ ] Snippets: todolist, text, timer & table
+    - [ ] Nested snippets
+    - [ ] Drag & drop and command pallet for adding notes and snippets
+    - [ ] Chron Jobs
+    - [ ] Install script
+    - [ ] Packaging
+  - [ ] Add platform compatability for MacOS and Windows
+    - [ ] CRUD Notes
+    - [ ] Built script
+    - [ ] Packaging 
+  - [ ] Add to README
+    - [ ] Getting started on Desktop app
+    - [ ] Usage of Desktop app
+- [ ] Sprint 3: Develop Mobile App
 See the [open issues](https://github.com/miroaccgh/snipit/issues) for a full list of proposed features (and known issues).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Contributing
+<!-- ## Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
@@ -132,7 +156,7 @@ Don't forget to give the project a star! Thanks again!
 ### Top contributors:
 <a href="https://github.com/miroaccgh/snipit/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=miroaccgh/snipit" alt="contrib.rocks image" />
-</a>
+</a> -->
 
 
 ## License
