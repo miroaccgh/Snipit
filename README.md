@@ -16,7 +16,7 @@
 <h3 align="center">Snipit</h3>
 
   <p align="center">
-    project_description
+    Snipit is an agile cross-platform notation app. Each note consists of code blocks of TS React components, snippets. These snippets can have a range of features. Eg: Text, timer, calander, kanban tickets, todolist, table or a combination of any of them. Some of these snippets come out of the box but they can also be add by the community or prompted by an AI assistend. The goal is to make templates of notes that can be reused and opened with chron jobs.
     <br />
     <a href="https://github.com/miroaccgh/snipit/docs"><strong>Explore the docs »</strong></a>
     <br />
